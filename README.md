@@ -1,5 +1,6 @@
-# MIST-4610-Project-2
+# MIST-4610-Project-2 
 
+ 
 
 ## Team name and members: 
 
@@ -25,7 +26,7 @@ Group 1
 
 ## Dataset Description 
 
-The dataset is sourced from incidents of crime in the City of Los Angeles dating back to 2020. The data is transcribed from original crime reports that are typed on paper.There are 847726 columns and 28 rows. 
+The dataset is sourced from incidents of crime in the City of Los Angeles dating back to 2020. The data is transcribed from original crime reports that are typed on paper. There are 847726 columns and 28 rows. 
 
  
 
